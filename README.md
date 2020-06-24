@@ -2,7 +2,7 @@
 ## Author: https://github.com/thelinuxchoice/screenspy
 ## Twitter: https://twitter.com/linux_choice
 
-Capture user screenshots using shortcut file (Bypass SmartScreen/Defender)
+Capture user screenshots using shortcut file (Bypass SmartScreen/Defender). Suport Multi-monitor
 
 ![screenspy](https://user-images.githubusercontent.com/34893261/85585211-2f75b380-b616-11ea-9264-3077d7a64368.gif)
 
